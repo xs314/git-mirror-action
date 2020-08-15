@@ -1,5 +1,4 @@
-name: Sync
-
+name: Gitee SYNC
 on:
   push:
     branches: [ master ]
